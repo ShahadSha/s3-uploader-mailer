@@ -1,0 +1,15 @@
+boto3==1.26.54
+botocore==1.29.54
+dnspython==2.3.0
+filelock==3.9.0
+idna==3.4
+jmespath==1.0.1
+numpy==1.24.1
+py3-validate-email==1.0.5.post1
+py3dns==3.2.1
+python-dateutil==2.8.2
+python-dotenv==0.21.1
+pytz==2022.7.1
+s3transfer==0.6.0
+six==1.16.0
+urllib3==1.26.14
