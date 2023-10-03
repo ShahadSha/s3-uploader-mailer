@@ -1,8 +1,8 @@
 
-# S3 Uploader and emailer with link expire
+# S3 Uploader and emailer with link expiry
 
-- A simple pyhton script to upload files into s3 bucket with expirey link feature 
-- The file link can be send to multple emails with custom email template.
+- A simple Python script to upload files into an s3 bucket with an expiry link feature 
+- The file link can be sent to multiple emails with a custom email template.
 
 - Change the config_sample.env name into .env also remove the link inside the env
 ## Usage
@@ -10,7 +10,7 @@
 To deploy this project run
 
 ```bash
-  Python3 main.py (expirey time in minutes) (filename/location) (emails seperated by commas)
+  Python3 main.py (expiry time in minutes) (filename/location) (emails separated by commas)
 ```
 
 Example
